@@ -47,7 +47,5 @@ Feel free to fork, contribute, or just reach out! Always happy to exchange ideas
 
 🚀 **Follow for more PowerShell & automation content!**  
 
----
 
-### ⭐ If you find these resources helpful, consider giving this repo a star!  
 
