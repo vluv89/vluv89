@@ -37,9 +37,9 @@ If you're just starting out or looking to refine your automation skills, stick a
 
 ## 🤝 Let’s Connect  
 
-📌 **LinkedIn:** [Your LinkedIn Profile]  
-📌 **Blog/Website:** [Your Website]  
-📌 **Email:** [Your Email]  
+📌 **LinkedIn:** (https://www.linkedin.com/in/vipul-prajapati-1a8b3a23a/)
+📌 **Blog/Website:** www.coreinteractive.com.au
+📌 **Email:** vipul.prajapati@email.com 
 
 Feel free to fork, contribute, or just reach out! Always happy to exchange ideas.  
 
