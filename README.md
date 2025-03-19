@@ -1,9 +1,7 @@
 
 # 👋 Welcome to My GitHub  
 
-Hi, I’m Vipul – an IT professional with a passion for **automation, cloud technologies, and helping others learn IT skills**. This space is where I share my PowerShell scripts, Azure automation tools, and Active Directory management solutions.  
-
-I started this repository to **simplify IT workflows**, **help university graduates transition into IT roles**, and **explore new ways to automate everyday tasks**.  
+Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and Tech Enthusiast based. With a strong passion for automation, cloud solutions, and business innovation, I use technology to solve real-world problems.
 
 ---
 
