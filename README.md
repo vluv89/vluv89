@@ -1,7 +1,7 @@
 
 # 👋 Welcome to My GitHub  
 
-Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and Tech Enthusiast based. With a strong passion for automation, cloud solutions, and business innovation, I use technology to solve real-world problems.
+Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and Tech Enthusiast with a strong passion for automation, cloud solutions, and business innovation, I use technology to solve real-world problems.
 
 ---
 
