@@ -8,7 +8,7 @@ Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and AI Automation Enthu
 ## 🚀 What You’ll Find Here  
 
 🔹 **AI Automation** – AI powered workflows, Automations for N8N, Zapier, Make.com, vapi & retell AI.  
-🔹 **PowerShel Automation** – Scripts for managing Azure resources, automating Active Directory, and simplifying IT operations.  
+🔹 **PowerShell Automation** – Scripts for managing Azure resources, automating Active Directory, and simplifying IT operations.  
 🔹 **Azure Resource Management** – Best practices and automation tools for provisioning and maintaining cloud environments.  
 🔹 **IT Support & Troubleshooting** – Guides and scripts to help new IT professionals navigate real-world tech issues.  
 
