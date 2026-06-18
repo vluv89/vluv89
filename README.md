@@ -1,7 +1,7 @@
 
 # 👋 Welcome to My GitHub  
 
-Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and AI Automation Enthusiast with a strong passion for automation, cloud solutions, and business innovation, I use technology to solve real-world problems.
+Hi, I'm Vipul, an Infrastructure Engineer, Entrepreneur, and AI Automation Enthusiast with a strong passion for automation, cloud solutions, and business innovation. I use technology to solve real-world problems.
 
 ---
 
@@ -18,7 +18,7 @@ Each project includes step-by-step instructions so you can easily adapt them to 
 
 ## 🔧 Tech & Tools  
 
-💻 **PowerShell** | ☁️ **Azure** | 🔑 **Active Directory** | 🛠 **IT Support** | 🔄 **Automation**  
+💻 **PowerShell** | ☁️ **Azure** | 🔑 **Active Directory** | 🛠 **IT Support** | 🔄 **Automation** 
 
 I believe in **working smarter, not harder**, and automation is a big part of that.  
 
